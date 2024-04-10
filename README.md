@@ -1,4 +1,4 @@
-# Couch Fever Movies nlintas
+# Couch Fever Movies
 This is an Android project for browsing trending movies and finding out details and reviews about them. The content is fresh from the TMDB REST API.
 # Languages Available
 - English
